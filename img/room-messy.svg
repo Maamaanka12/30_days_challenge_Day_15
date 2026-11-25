@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="The same living room before cleaning, with clutter and dust">
+  <defs>
+    <linearGradient id="wallGrad2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EEF4E9"/>
+      <stop offset="1" stop-color="#DBE9DA"/>
+    </linearGradient>
+    <linearGradient id="skyGrad2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#CFE6EC"/>
+      <stop offset="1" stop-color="#EAF3E4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="640" height="400" fill="url(#wallGrad2)"/>
+
+  <!-- Window -->
+  <rect x="54" y="38" width="212" height="180" rx="10" fill="#FDFDF8"/>
+  <rect x="66" y="50" width="188" height="156" rx="5" fill="url(#skyGrad2)"/>
+  <circle cx="214" cy="92" r="24" fill="#F3E76B"/>
+  <path d="M66 170 Q110 134 154 168 T254 160 V206 H66 Z" fill="#A9CDA9"/>
+  <path d="M66 186 Q130 158 190 184 T254 180 V206 H66 Z" fill="#8FBC97"/>
+  <rect x="157" y="50" width="8" height="156" fill="#FDFDF8"/>
+  <rect x="66" y="126" width="188" height="8" fill="#FDFDF8"/>
+
+  <!-- Sunlight -->
+  <path d="M266 58 L430 206 L362 206 L232 74 Z" fill="#FFF8C8" opacity=".34"/>
+  <path d="M266 150 L474 300 L414 300 L228 170 Z" fill="#FFF8C8" opacity=".2"/>
+
+  <!-- Floor + rug -->
+  <rect y="300" width="640" height="100" fill="#CDBB9E"/>
+  <rect y="300" width="640" height="4" fill="#B9A88B"/>
+  <ellipse cx="372" cy="362" rx="192" ry="32" fill="#EEE6D4"/>
+
+  <!-- Plant -->
+  <path d="M104 274 C82 252 88 226 106 214 C118 234 118 256 104 274 Z" fill="#3E8064"/>
+  <path d="M108 274 C126 250 150 244 164 252 C150 272 130 280 108 274 Z" fill="#4E936F"/>
+  <path d="M100 274 C78 266 66 248 72 234 C92 242 104 256 100 274 Z" fill="#569B74"/>
+  <rect x="86" y="270" width="36" height="32" rx="7" fill="#D6A37A"/>
+  <rect x="84" y="266" width="40" height="8" rx="4" fill="#E3B68D"/>
+
+  <!-- Sofa -->
+  <rect x="300" y="194" width="248" height="106" rx="24" fill="#2E6B4F"/>
+  <rect x="316" y="208" width="104" height="70" rx="12" fill="#438868"/>
+  <rect x="428" y="208" width="104" height="70" rx="12" fill="#438868"/>
+  <rect x="292" y="266" width="264" height="44" rx="16" fill="#255A43"/>
+  <rect x="318" y="276" width="72" height="22" rx="8" fill="#E6F25A"/>
+  <rect x="398" y="276" width="72" height="22" rx="8" fill="#F1F3DE"/>
+
+  <!-- Side table + vase -->
+  <rect x="208" y="286" width="118" height="12" rx="6" fill="#B98C63"/>
+  <rect x="220" y="298" width="9" height="32" rx="4" fill="#A87953"/>
+  <rect x="304" y="298" width="9" height="32" rx="4" fill="#A87953"/>
+  <path d="M252 286 L248 268 L268 268 L264 286 Z" fill="#F7F3E8"/>
+  <path d="M256 268 L256 258 L262 258 L262 268 Z" fill="#E9E4D2"/>
+
+  <!-- Dull tint over the whole room -->
+  <rect width="640" height="400" fill="#5F665C" opacity=".16"/>
+
+  <!-- Crumpled throw -->
+  <path d="M330 232 q30-18 58 4 q24 18 52-2 q22-16 40 8 l-6 46 q-38 16-72-2 q-34-18-68 2 Z" fill="#C9C2AE"/>
+  <path d="M348 246 l26 18 M420 240 l24 22 M388 268 l30-10" stroke="#A9A28E" stroke-width="3" fill="none"/>
+
+  <!-- Skewed cushions -->
+  <rect x="322" y="216" width="82" height="56" rx="10" fill="#9FB4A3" transform="rotate(-13 363 244)"/>
+  <rect x="446" y="222" width="78" height="54" rx="10" fill="#AEC0AD" transform="rotate(11 485 249)"/>
+
+  <!-- Scattered papers -->
+  <rect x="168" y="344" width="46" height="30" rx="2" fill="#EFECE0" transform="rotate(-16 191 359)"/>
+  <rect x="212" y="366" width="40" height="26" rx="2" fill="#F5F1E5" transform="rotate(9 232 379)"/>
+  <rect x="512" y="350" width="44" height="28" rx="2" fill="#EFECE0" transform="rotate(14 534 364)"/>
+
+  <!-- Tipped mug on the table -->
+  <path d="M236 286 l16-8 8 14-18 8 Z" fill="#D8C9B4"/>
+  <ellipse cx="246" cy="296" rx="8" ry="3" fill="#8A6C50"/>
+
+  <!-- Laundry pile -->
+  <path d="M70 330 q16-30 42-14 q20-24 38 4 q22 4 12 26 H70 Z" fill="#B9BDB2"/>
+  <path d="M82 322 q18-12 34 2 M112 316 q14 8 22 18" stroke="#929B90" stroke-width="3" fill="none"/>
+
+  <!-- Dust motes -->
+  <circle cx="292" cy="110" r="3" fill="#9A9E90"/><circle cx="336" cy="150" r="2.5" fill="#9A9E90"/>
+  <circle cx="392" cy="96" r="2" fill="#9A9E90"/><circle cx="470" cy="180" r="3" fill="#9A9E90"/>
+  <circle cx="556" cy="118" r="2.5" fill="#9A9E90"/><circle cx="286" cy="196" r="2" fill="#9A9E90"/>
+</svg>

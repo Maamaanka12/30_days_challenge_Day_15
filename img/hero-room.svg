@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 460" role="img" aria-label="Illustration of a bright, tidy living room with a sofa, plant and sunlight">
+  <defs>
+    <linearGradient id="heroWall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EAF1E7"/><stop offset="1" stop-color="#D6E5D6"/>
+    </linearGradient>
+    <linearGradient id="heroSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#CFE6EC"/><stop offset="1" stop-color="#EAF3E4"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="460" rx="26" fill="url(#heroWall)"/>
+  <circle cx="120" cy="110" r="128" fill="#F5F8E6" opacity=".7"/>
+  <rect x="58" y="46" width="204" height="188" rx="10" fill="#FDFDF8"/>
+  <rect x="72" y="60" width="176" height="160" rx="5" fill="url(#heroSky)"/>
+  <circle cx="210" cy="100" r="25" fill="#F3E76B"/>
+  <path d="M72 170 Q118 136 160 168 T248 160 V220 H72 Z" fill="#A9CDA9"/>
+  <path d="M72 186 Q136 158 196 184 T248 180 V220 H72 Z" fill="#8FBC97"/>
+  <rect x="158" y="60" width="8" height="160" fill="#FDFDF8"/>
+  <rect x="72" y="138" width="176" height="8" fill="#FDFDF8"/>
+  <path d="M264 60 L420 204 L360 204 L234 78 Z" fill="#FFF8C8" opacity=".4"/>
+  <rect y="330" width="520" height="130" fill="#CDBB9E"/>
+  <rect y="330" width="520" height="4" fill="#B9A88B"/>
+  <ellipse cx="304" cy="398" rx="172" ry="30" fill="#EEE6D4"/>
+  <path d="M112 306 C88 282 96 254 114 242 C128 262 128 286 112 306 Z" fill="#3E8064"/>
+  <path d="M118 306 C138 280 164 274 180 282 C164 304 142 312 118 306 Z" fill="#4E936F"/>
+  <path d="M106 306 C82 298 70 278 76 264 C98 272 112 288 106 306 Z" fill="#569B74"/>
+  <rect x="94" y="302" width="38" height="34" rx="7" fill="#D6A37A"/>
+  <rect x="92" y="298" width="42" height="9" rx="4" fill="#E3B68D"/>
+  <rect x="242" y="240" width="226" height="104" rx="24" fill="#2E6B4F"/>
+  <rect x="258" y="254" width="98" height="68" rx="12" fill="#438868"/>
+  <rect x="364" y="254" width="98" height="68" rx="12" fill="#438868"/>
+  <rect x="234" y="312" width="242" height="42" rx="16" fill="#255A43"/>
+  <rect x="260" y="322" width="68" height="22" rx="8" fill="#E6F25A"/>
+  <rect x="336" y="322" width="68" height="22" rx="8" fill="#F1F3DE"/>
+  <rect x="170" y="322" width="92" height="11" rx="5" fill="#B98C63"/>
+  <rect x="180" y="333" width="8" height="28" rx="4" fill="#A87953"/>
+  <rect x="244" y="333" width="8" height="28" rx="4" fill="#A87953"/>
+  <path d="M204 322 L200 306 L222 306 L218 322 Z" fill="#F7F3E8"/>
+</svg>

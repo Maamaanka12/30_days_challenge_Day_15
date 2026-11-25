@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Clean, tidy living room">
+  <defs>
+    <linearGradient id="wallGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EEF4E9"/>
+      <stop offset="1" stop-color="#DBE9DA"/>
+    </linearGradient>
+    <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#CFE6EC"/>
+      <stop offset="1" stop-color="#EAF3E4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="640" height="400" fill="url(#wallGrad)"/>
+
+  <!-- Window -->
+  <rect x="54" y="38" width="212" height="180" rx="10" fill="#FDFDF8"/>
+  <rect x="66" y="50" width="188" height="156" rx="5" fill="url(#skyGrad)"/>
+  <circle cx="214" cy="92" r="24" fill="#F3E76B"/>
+  <path d="M66 170 Q110 134 154 168 T254 160 V206 H66 Z" fill="#A9CDA9"/>
+  <path d="M66 186 Q130 158 190 184 T254 180 V206 H66 Z" fill="#8FBC97"/>
+  <rect x="157" y="50" width="8" height="156" fill="#FDFDF8"/>
+  <rect x="66" y="126" width="188" height="8" fill="#FDFDF8"/>
+
+  <!-- Sunlight -->
+  <path d="M266 58 L430 206 L362 206 L232 74 Z" fill="#FFF8C8" opacity=".34"/>
+  <path d="M266 150 L474 300 L414 300 L228 170 Z" fill="#FFF8C8" opacity=".2"/>
+
+  <!-- Floor + rug -->
+  <rect y="300" width="640" height="100" fill="#CDBB9E"/>
+  <rect y="300" width="640" height="4" fill="#B9A88B"/>
+  <ellipse cx="372" cy="362" rx="192" ry="32" fill="#EEE6D4"/>
+
+  <!-- Plant -->
+  <path d="M104 274 C82 252 88 226 106 214 C118 234 118 256 104 274 Z" fill="#3E8064"/>
+  <path d="M108 274 C126 250 150 244 164 252 C150 272 130 280 108 274 Z" fill="#4E936F"/>
+  <path d="M100 274 C78 266 66 248 72 234 C92 242 104 256 100 274 Z" fill="#569B74"/>
+  <rect x="86" y="270" width="36" height="32" rx="7" fill="#D6A37A"/>
+  <rect x="84" y="266" width="40" height="8" rx="4" fill="#E3B68D"/>
+
+  <!-- Sofa -->
+  <rect x="300" y="194" width="248" height="106" rx="24" fill="#2E6B4F"/>
+  <rect x="316" y="208" width="104" height="70" rx="12" fill="#438868"/>
+  <rect x="428" y="208" width="104" height="70" rx="12" fill="#438868"/>
+  <rect x="292" y="266" width="264" height="44" rx="16" fill="#255A43"/>
+  <rect x="318" y="276" width="72" height="22" rx="8" fill="#E6F25A"/>
+  <rect x="398" y="276" width="72" height="22" rx="8" fill="#F1F3DE"/>
+
+  <!-- Side table + vase -->
+  <rect x="208" y="286" width="118" height="12" rx="6" fill="#B98C63"/>
+  <rect x="220" y="298" width="9" height="32" rx="4" fill="#A87953"/>
+  <rect x="304" y="298" width="9" height="32" rx="4" fill="#A87953"/>
+  <path d="M252 286 L248 268 L268 268 L264 286 Z" fill="#F7F3E8"/>
+  <path d="M256 268 L256 258 L262 258 L262 268 Z" fill="#E9E4D2"/>
+</svg>
